@@ -4,6 +4,9 @@
   <a href="mailto:vananhnt2.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vananhnt2.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20via%20Gmail-4285F4?logo=gmail&logoColor=white" />
+  </a>
 </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycXg1MjlpMW8zOTh3YjAxdWx1c2QxdnpkN28xaDVvcHo2ZmZ6NGF5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/source.gif" width="30%" />
 
